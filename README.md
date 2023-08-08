@@ -1,7 +1,6 @@
 
 
-# ML app
-### Traditional ML app.
+# Thing Recognition App
 
 * **Features**:
   * recognition of various objects with the issuance of recognition accuracy
