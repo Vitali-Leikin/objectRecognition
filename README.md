@@ -4,7 +4,7 @@
 ### Traditional ML app.
 
 * **Features**:
-
+  * recognition of various objects with the issuance of recognition accuracy
 ___
 
 * **Knowledges**:
@@ -15,3 +15,5 @@ ___
   * MVC
 ___
 
+
+![rfhnbyrf](mlIphone.gif)
